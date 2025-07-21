@@ -1,6 +1,5 @@
 # Internet-CalC
 Well refined and Compactable IP Calculator for IP RANGE, CIDR, HEX, BINARY, DEC
----
 
 This lightweight Python utility offers a simple command-line interface for working with IP addresses and networks. It lets you seamlessly convert IPs between standard decimal, hexadecimal, and binary formats, as well as handle CIDR notation. The tool can expand CIDR blocks into their full IP ranges and calculate the smallest possible CIDR block that contains a specified IP range.
 
